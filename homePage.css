@@ -1,0 +1,12 @@
+#group1, #group2, #group3{
+	display: inline-block;
+}
+
+#l1, #l2, #l3{
+	display: inline-block;
+}
+
+#searchBar, #search{
+	width: 10vw;
+	height: 4px;
+}
